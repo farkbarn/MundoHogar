@@ -1,4 +1,5 @@
 -- organizando archivos y borrando extras
+-- soporte de idioma español
 
 1.0.3
 -- nuevo screenshot
