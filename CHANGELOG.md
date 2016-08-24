@@ -1,6 +1,8 @@
+1.0.5
+-- soporte de idioma español
+
 1.0.4
 -- organizando archivos y borrando extras
--- soporte de idioma español
 
 1.0.3
 -- nuevo screenshot
