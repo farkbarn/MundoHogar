@@ -295,7 +295,7 @@ function oblique_footer_credits() {
 		printf( __( 'Proudly powered by %s', 'oblique' ), 'WordPress' );
 	echo '</a>';
 	echo '<span class="sep"> | </span>';
-	printf( __( 'Theme: %2$s by %1$s.', 'oblique' ), 'Themeisle', '<a href="http://themeisle.com/themes/oblique/" rel="nofollow">Oblique</a>' );
+	printf( __( 'Theme: %2$s by %1$s.', 'oblique' ), 'Themeisle', '<a href="http://www.obconsorcio.com" rel="nofollow">GrupoMundo</a>' );
 }
 add_action( 'oblique_footer', 'oblique_footer_credits' );
 
